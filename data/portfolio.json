@@ -1,20 +1,23 @@
 [
     {
-        "image": "image1.png",
+        "image": "project-booki.webp",
+        "alt": "Booki",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Integration de la page d'accueil d'une plateforme de reservation avec une interface responsive.",
         "link": "#"
     },
     {
-        "image": "image2.png",
+        "image": "project-mon-vieux-grimoire.webp",
+        "alt": "Mon Vieux grimoire",
         "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Developpement d'une API securisee pour une application de notation et de recommandation de livres.",
         "link": "#"
     },
     {
-        "image": "image3.png",
+        "image": "project-kasa.webp",
+        "alt": "Kasa",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Creation d'une application React pour une plateforme de location immobiliere.",
         "link": "#"
     }
 ]
