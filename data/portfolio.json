@@ -4,20 +4,20 @@
         "alt": "Booki",
         "title": "Booki",
         "text": "Integration de la page d'accueil d'une plateforme de reservation avec une interface responsive.",
-        "link": "<a href='https://www.google.com'>Google</a>"
+        "link": "https://github.com/Cyrian1/booki-starter-code"
     },
     {
-        "image": "project-mon-vieux-grimoire.webp",
-        "alt": "Mon Vieux grimoire",
-        "title": "Mon Vieux grimoire",
-        "text": "Developpement d'une API securisee pour une application de notation et de recommandation de livres.",
-        "link": "#"
+        "image": "Eco-Bliss.webp",
+        "alt": "Eco-Bliss-Bath",
+        "title": "Eco-Bliss-Bath",
+        "text": "Développement d'une application web pour une entreprise de produits écologiques avec intégration de tests Cypress.",
+        "link": "https://github.com/Cyrian1/Eco-Bliss-Bath-V2"
     },
     {
         "image": "project-kasa.webp",
         "alt": "Kasa",
         "title": "Kasa",
         "text": "Creation d'une application React pour une plateforme de location immobiliere.",
-        "link": "<a href='https://github.com/Cyrian1/Kasa'>GitHub</a>"
+        "link": "https://github.com/Cyrian1/Kasa"
     }
 ]
