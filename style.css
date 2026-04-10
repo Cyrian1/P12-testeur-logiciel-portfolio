@@ -133,6 +133,22 @@
     text-align: center;
 }
 
+.portfolioContent.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.portfolioContent .card-body {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.portfolioContent .card-text {
+    flex-grow: 1;
+}
+
 /* contact */
 .contactColumn {
     display: flex;
@@ -141,6 +157,5 @@
 }
 .contactColumn i {
     color: #198754;
+    font-size: 2rem;
 }
-
-/* footer */
